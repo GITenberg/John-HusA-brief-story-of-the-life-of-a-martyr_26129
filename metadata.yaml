@@ -1,0 +1,28 @@
+_repo: John-HusA-brief-story-of-the-life-of-a-martyr_26129
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26129-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dallmann, William
+    birthdate: 1862
+    deathdate: 1952
+    gutenberg_agent_id: '31811'
+    url: http://www.gutenberg.org/2009/agents/31811
+description: ''
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26129'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hus, Jan, 1369?-1415'
+- !lcsh 'Biography'
+- !lcc 'CT'
+- !lcc 'BX'
+title: 'John Hus: A brief story of the life of a martyr'
+url: http://www.gutenberg.org/ebooks/26129
